@@ -6,4 +6,4 @@ services:
     volumes:
       - /tmp/.X11-unix:/tmp/.X11-unix
     environment:
-      DISPLAY: :2
+      DISPLAY: :1
