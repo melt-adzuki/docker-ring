@@ -12,7 +12,7 @@ sudo apt install -y xserver-xephyr
 ## Build and Run
 Clone the repository of this image
 ```shell
-git clone https://github.com/hijiki02/docker-ring.git
+git clone https://github.com/melt-adzuki/docker-ring.git
 cd docker-ring
 ```
 
